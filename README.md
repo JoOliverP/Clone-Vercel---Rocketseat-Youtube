@@ -4,7 +4,7 @@ UI Clone #17 - Vercel (Homepage)
 
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> Clone da UI da página inicial do Vercel para fins de estudo.
 </p>
-<p align="center">Clique <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">Aqui</a> para acessar a plalist no YouTube.</p>
+<p align="center">Clique <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">Aqui</a> para acessar a playlist no YouTube.</p>
 
 <hr>
 
