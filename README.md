@@ -6,12 +6,6 @@ UI Clone #17 - Vercel (Homepage)
 </p>
 <p align="center">Clique <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">Aqui</a> para acessar a plalist no YouTube.</p>
 
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
-
 <hr>
 
 ## Resources
