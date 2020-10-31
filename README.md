@@ -13,20 +13,14 @@ UI Clone #17 - Vercel (Homepage)
 
 <hr>
 
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
-
-[Guilherme Rodz](https://github.com/guilhermerodz)
-
 ## Resources
 
 - [x] HTML, SCSS, JS
 - [x] SVG Images
 
-## Start Dev Environment for VSCode
+## Iniciar projeto
 
-1. Open project folder in `VSCode`
-2. Install `Live Server` and `Live Sass Compiler` extension
-3. Right click `index.html` > `Open with Live Server`
-4. Access the **generated address** in your browser 🚀
+1. Abra a pasta do projeto no `VSCode`
+2. Instale a extensão `Live Server` e a ` Live Sass Compiler`
+3. Clique com o botão direito em ʻindex.html`> ʻOpen with Live Server`
+4. Acesse o ** endereço gerado ** em seu navegador 
